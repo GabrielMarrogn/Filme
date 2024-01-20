@@ -1,0 +1,1 @@
+Dado dois valores double, calcula a diferença entre ele em porcentagem.
